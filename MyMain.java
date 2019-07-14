@@ -47,7 +47,7 @@ public class MyMain extends Application {
 		Scene scene = new Scene(rootNode);
 
 		primaryStage.setScene(scene);
-		primaryStage.setTitle("Hello JavaFx, Mahima here");
+		primaryStage.setTitle("Temperature Converter");
 
 		primaryStage.show(); // imp for visibility
 
